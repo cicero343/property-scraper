@@ -92,7 +92,7 @@ Press Enter at any prompt to use the default or skip optional filters.
 ## Refiner script
 
 ```bash
-python refine-property-results.py
+python refine-results.py
 ```
 
 Run from the same folder as your results files. Auto-detects `results-property-*.html` files or accepts filenames as arguments. Produces `results-property-refined-{date}.html` with:
