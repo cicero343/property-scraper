@@ -112,4 +112,4 @@ For personal, educational use only. Demonstrates browser automation techniques u
 
 ## License
 
-MIT — see [LICENSE](https://claude.ai/chat/LICENSE).
+MIT — see https://github.com/cicero343/property-scraper/blob/main/LICENSE 
