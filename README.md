@@ -35,7 +35,7 @@ Clone the repository and navigate to the property-scraper folder:
 
 ```bash
 git clone https://github.com/cicero343/property-scraper.git
-cd scrapers/property-scraper
+cd property-scraper
 ```
 
 ### Windows
