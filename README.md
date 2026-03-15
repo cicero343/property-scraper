@@ -21,7 +21,7 @@ Searches Rightmove and Zoopla simultaneously, merges the results into a single b
 | `property-scraper.ts` | Main script |
 | `property-scraper-launch.ps1` | Windows launcher — installs dependencies and runs the script |
 | `property-scraper-launch.sh` | Mac / Linux launcher |
-| `refine-property-results.py` | Optional refiner — price per sq ft, keyword scoring, agent grouping |
+| `refine-results.py` | Optional refiner — price per sq ft, keyword scoring, agent grouping |
 
 ## Requirements
 
