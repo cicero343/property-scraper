@@ -2,8 +2,7 @@
 
 Searches Rightmove and Zoopla simultaneously, merges the results into a single browsable HTML report, and tracks what you've seen across runs.
 
-
-
+<img width="560" height="345" alt="image" src="https://github.com/user-attachments/assets/b1ef5901-c3b2-4d79-8be8-5b3c35c4ea74" />
 
 ## Why use this?
 
