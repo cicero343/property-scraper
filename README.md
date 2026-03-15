@@ -2,6 +2,8 @@
 
 Searches Rightmove and Zoopla simultaneously, merges the results into a single browsable HTML report, and tracks what you've seen across runs.
 
+<img width="560" height="345" alt="image" src="https://raw.githubusercontent.com/cicero343/property-scraper/refs/heads/main/property-scraper.png" />
+
 ## Why use this?
 
 **One report across both sites** — Rightmove and Zoopla results combined and deduplicated. The same property listed on both is flagged rather than appearing twice.
