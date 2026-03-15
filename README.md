@@ -2,6 +2,9 @@
 
 Searches Rightmove and Zoopla simultaneously, merges the results into a single browsable HTML report, and tracks what you've seen across runs.
 
+
+
+
 ## Why use this?
 
 **One report across both sites** — Rightmove and Zoopla results combined and deduplicated. The same property listed on both is flagged rather than appearing twice.
