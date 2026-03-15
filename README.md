@@ -34,7 +34,7 @@ Searches Rightmove and Zoopla simultaneously, merges the results into a single b
 Clone the repository and navigate to the property-scraper folder:
 
 ```bash
-git clone https://github.com/yourusername/scrapers.git
+git clone https://github.com/cicero343/property-scraper.git
 cd scrapers/property-scraper
 ```
 
