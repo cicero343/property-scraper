@@ -144,3 +144,16 @@ vite.config.ts.timestamp-*
 # Scraper outputs — results and tracking files are local only
 results-*.html
 seen-properties.json
+
+# TypeScript build output
+dist/
+*.js.map
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
