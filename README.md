@@ -2,7 +2,7 @@
 
 Searches Rightmove and Zoopla simultaneously, merges the results into a single browsable HTML report, and tracks what you've seen across runs.
 
-<img width="560" height="345" alt="image" src="https://raw.githubusercontent.com/cicero343/property-scraper/refs/heads/main/property-scraper.png" />
+<img width="656" height="289" alt="property-scraper2" src="https://github.com/user-attachments/assets/ff3abd09-b2dd-4ce6-8468-b5a52f217106" />
 
 ## Why use this?
 
